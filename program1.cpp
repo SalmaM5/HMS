@@ -1,7 +1,4 @@
-#include <mpi.h>
-#include <iostream>
-using namespace std;
-#define MAXsize 1000
+
 int main(int argc, char** argv){
     
    int rank,size;
